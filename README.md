@@ -24,10 +24,11 @@ Co tady najdete
 
 | Repozitář | Co dělá |
 |-----------|---------|
-| [`Kazuistiky-LLM-sprint`](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | Metodologie učení s LLM, transfer learning, case studies |
-| [`cad2llm`](https://github.com/outpost2026/cad2llm) | Parser ze SketchUp do deterministického JSON – 0 % halucinací |
+| [`cad2llm`](https://github.com/outpost2026/cad2llm) | Z prostorového CAD modelu do deterministického JSONu, ve kterém se AI neztratí |
+| [`Outpost-security-perimeter`](https://github.com/outpost2026/Outpost-security-perimeter) | IoT dvoustupňové automatizované zabezpečení perimetru pro odlehlé nemovitosti |
 | [`RAG-indexer`](https://github.com/outpost2026/RAG-indexer) | Pre‑processing pro RAG: mapování, klasifikace, normalizace |
-| [`Outpost-security-perimeter`](https://github.com/outpost2026/Outpost-security-perimeter) | Dvoustupňové automatizované zabezpečení perimetru pro odlehlé nemovitosti |
+| [`Kazuistiky-LLM-sprint`](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | Metodologie učení s LLM, transfer learning, case studies |
+
 
 ---
 
