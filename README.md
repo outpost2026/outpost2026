@@ -2,7 +2,7 @@
 
 Snažím se stavět věci, které dávají smysl i poté, co utichne prvotní nadšení z nových technologií. Moje cesta k vývoji nevedla přes školní lavice, ale přes praxi: v posledních několika letech stavím off-grid systémy a posledního půl roku jsem obsluhoval CNC vodní paprsek.
 
-Tato zkušenost mě naučila jisté skepsi k „hype“. Když se v technických debatách začnou vršit prázdné fráze, tak jdu na spíš na pivo, anebo raději - zkouším, co a kde je skutečně pravda.
+Tato zkušenost mě naučila jisté skepsi k „hype“. Když se v technických debatách začnou vršit prázdné fráze, tak jdu spíš na pivo, anebo raději - zkouším, co a kde je skutečně pravda.
 
 ---
 
