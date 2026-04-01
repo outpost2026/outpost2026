@@ -1,4 +1,4 @@
-# 👋 nazdar, jsem Ondřej
+# 👋 Nazdar, jsem Ondřej
 
 Snažím se stavět věci, které dávají smysl i poté, co utichne prvotní nadšení z nových technologií. Moje cesta k vývoji nevedla přes školní lavice, ale přes praxi: v posledních několika letech stavím off-grid systémy a posledního půl roku jsem obsluhoval CNC vodní paprsek.
 
@@ -8,7 +8,7 @@ Tato zkušenost mě naučila jisté skepsi k „hype“. Když se v technických
 
 ## 🛠️ Co se snažím přenést do kódu
 
-Nejsem expert, jsem student procesu. Moje dosavadní zkušenost s fyzickými systémy mi ale dala pár užitečných filtrů, které mi pomáhají se v softwaru neztratit:
+Nejsem expert, jsem student procesu. Životní praxe s fyzickými systémy mi ale dala pár užitečných filtrů, které mi pomáhají se v softwaru neztratit:
 
 * **Respekt k realitě:** Papír (nebo README) snese všechno, ale baterie buď energii dává, nebo ne. Stejně tak kód buď funguje, nebo je to jen text.
 * **Hledání chyb (Debugging):** Zvyk diagnostikovat fyzické poruchy mě naučil trpělivosti. Symptom je jen začátek cesty k příčině.
