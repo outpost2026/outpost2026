@@ -33,8 +33,6 @@ Co tady najdete
 
 ## 🌲 Kde mě najdete
 
-Aktuálně se soustředím na to, aby za mnou zůstával kód, kterému sám rozumím a který řeší reálné potřeby.
-
 - **Lokalita:** Praha, ČR
 - **Email:** ondra.sousek@gmail.com
 
