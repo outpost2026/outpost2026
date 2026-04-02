@@ -1,4 +1,4 @@
-# 👋 Nazdar, jsem Ondřej
+# Nazdar, jsem Ondřej
 
 Snažím se stavět věci, které dávají smysl i poté, co utichne prvotní nadšení z nových technologií. Moje cesta k vývoji nevedla přes školní lavice, ale přes praxi: v posledních několika letech stavím off-grid systémy a posledního půl roku jsem obsluhoval CNC vodní paprsek.
 
@@ -6,7 +6,7 @@ Tato zkušenost mě naučila jisté skepsi k „hype“. Když se v technických
 
 ---
 
-## 🛠️ Co se snažím přenést do kódu
+## Co se snažím přenést do kódu
 
 Nejsem expert, jsem student procesu. Životní praxe s fyzickými systémy mi ale dala pár užitečných filtrů, které mi pomáhají se v softwaru neztratit:
 
@@ -16,7 +16,7 @@ Nejsem expert, jsem student procesu. Životní praxe s fyzickými systémy mi al
 
 ---
 
-## 🚀 Projekty v rámci 40denního sprintu
+## Projekty v rámci 40denního sprintu
 
 Tento profil slouží jako dokumentace mého intenzivního učení. Nehledejte zde dokonalost, ale snahu o funkčnost a srozumitelnost.
 
