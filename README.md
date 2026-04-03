@@ -25,6 +25,7 @@ Co tady najdete
 | Repozitář | Co dělá |
 |-----------|---------|
 | [cad2llm](https://github.com/outpost2026/cad2llm) | Z prostorového CAD modelu do deterministického JSONu, ve kterém se AI neztratí |
+| [Outpost SOC Predictor](https://github.com/outpost2026/Kazuistiky-LLM-sprint/tree/LFP_soc_predict_pipeline) | Pipeline predikce stavu nabití (ΔSOC) LiFePO₄ baterií kombinací meteorologických dat s pokročilým algoritmem teréního stínění |
 | [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) | IoT dvoustupňové automatizované zabezpečení perimetru pro odlehlé nemovitosti |
 | [RAG-indexer](https://github.com/outpost2026/RAG-indexer) | Pre‑processing pro RAG: mapování, klasifikace, normalizace |
 | [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | Metodologie učení s LLM, transfer learning, case studies |
