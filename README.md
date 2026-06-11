@@ -8,7 +8,7 @@ CNC · Python · GCP · RE · LLM augmentace
 
 Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do kódu. 14 let off-grid DIY, CNC výroba, reverzní inženýrství proprietárních formátů — a k tomu posledních pár měsíců intenzivního převodu do digitální domény.
 
-**První open-source parser proprietárního formátu .VCF (Ruida/VCutWorks). Žádná známá konkurence. **
+**První open-source parser proprietárního formátu .VCF (Ruida/VCutWorks). Žádná známá konkurence.**
 
 ## Co umím
 
@@ -52,7 +52,7 @@ Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do
 
 ```
 Ondřej Soušek    
-\[sousek@systeq.cz\](mailto:sousek@systeq.cz)    
+sousek@systeq.cz    
 www.systeq.cz    
 Praha, ČR
 ```
