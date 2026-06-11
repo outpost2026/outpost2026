@@ -1,51 +1,61 @@
-# Nazdar, jsem Ondřej
+# Outpost2026
 
-Snažím se stavět věci, které dávají smysl i poté, co utichne prvotní nadšení z nových technologií. Moje cesta k vývoji nevedla přes školní lavice, ale přes praxi: v posledních několika letech stavím off-grid systémy a posledního půl roku jsem obsluhoval CNC vodní paprsek.
+```
+Off-grid, Praha    
+2500 Wp FV · 16 kWh LiFePO4    
+CNC · Python · GCP · RE · LLM augmentace
+```
 
-Tato zkušenost mě naučila jisté skepsi k „hype“. Když se v technických debatách začnou vršit prázdné fráze, tak jdu spíš na pivo, anebo raději - zkouším, co a kde je skutečně pravda.
+Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do kódu. 14 let off-grid DIY, CNC výroba, reverzní inženýrství proprietárních formátů — a k tomu posledních pár měsíců intenzivního převodu do digitální domény.
 
----
+**První open-source parser proprietárního formátu .VCF (Ruida/VCutWorks). Žádná známá konkurence. **
 
-## Co se snažím přenést do kódu
+## Co umím
 
-Nejsem expert, jsem student procesu. Životní praxe s fyzickými systémy mi ale dala pár užitečných filtrů, které mi pomáhají se v softwaru neztratit:
-
-* **Respekt k realitě:** Papír (nebo README) snese všechno, ale baterie buď energii dává, nebo ne. Stejně tak kód buď funguje, nebo je to jen text.
-* **Hledání chyb (Debugging):** Zvyk diagnostikovat fyzické poruchy mě naučil trpělivosti. Symptom je jen začátek cesty k příčině.
-* **Opatrnost k černým skříňkám:** Zejména u LLM se snažím hledat cesty, jak mít výstupy pod kontrolou. Pokud systém „halucinuje“, raději hledám jinou cestu.
-
----
-
-## Projekty v rámci 40denního sprintu
-
-Tento profil slouží jako dokumentace mého intenzivního učení. Nehledejte zde dokonalost, ale snahu o funkčnost a srozumitelnost.
-
-Co tady najdete
-
-| Repozitář | Co dělá |
-|-----------|---------|
-| [cad2llm](https://github.com/outpost2026/cad2llm) | Z prostorového CAD modelu do deterministického JSONu, ve kterém se AI neztratí |
-| [Outpost SOC Predictor](https://github.com/outpost2026/Kazuistiky-LLM-sprint/tree/LFP_soc_predict_pipeline) | Pipeline predikce stavu nabití (ΔSOC) LiFePO₄ baterií kombinací meteorologických dat s pokročilým algoritmem teréního stínění |
-| [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) | IoT dvoustupňové automatizované zabezpečení perimetru pro odlehlé nemovitosti |
-| [RAG-indexer](https://github.com/outpost2026/RAG-indexer) | Pre‑processing pro RAG: mapování, klasifikace, normalizace |
-| [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | Metodologie učení s LLM, transfer learning, case studies |
-
----
-
-### Jak vypadá střet s trhem (Případová studie)
-Teorie a repozitáře jsou jedna věc, ale jak to funguje, když s tímto přístupem a arzenálem přijdete z výroby rovnou na reálný IT pohovor? 
-Sepsal jsem detailní analytickou kazuistiku mého úplně prvního pohovoru v životě. Zdokumentoval jsem v ní, co v praxi zafungovalo, na jaká rizika si dát pozor a proč si myslím, že v nastupující éře se těžiště práce přesouvá od pouhého memorování syntaxe k systémovému myšlení a pragmatickému řízení AI.
-
-👉 Přečíst dokument: **[Kariérní přechody v éře saturace AI (2026)](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/karierni_prechody_v_ere_saturace_AI_rok_2026_revidovano_v2.md)**
+| Vrstva | Oblast | Důkaz |
+| - | - | - |
+| **Reverse Engineering** | Binární formáty, IEEE 754, bitová maskování | 74B segmenty .VCF dekódovány bez dokumentace (184 h) |
+| **Python** | Streamlit, pandas, RPA, ETL | 7 repozitářů, 2 produkční parsery |
+| **Cloud** | GCP (Cloud Run, Scheduler, Storage, IAM, Artifact Registry) | Docker → Cloud Run deploy |
+| **RPA** | GUI automatizace VCutWorks | 33/33 souborů = 100% úspěšnost |
+| **Testování** | Golden master regression, determinism, smoke | 11 testů, baseline JSONy v repu |
+| **Off-grid systémy** | FV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
+| **CNC technologie** | Vodní paprsek, oscilační nůž, V-slot | CAM workflow od DXF po hotový díl |
 
 
+## Repozitáře
 
----
+| Repo | Vznik | Co dělá |
+| - | - | - |
+| [Vcut-parser](https://github.com/outpost2026/vcut-parser) (private) | 2026-06 | **První open-source parser .VCF** — reverzní inženýrství formátu Ruida/VCutWorks |
+| [CNC\_2\_LLM](https://github.com/outpost2026/CNC_2_LLM) (private) | 2026-06 | Pipeline z CAD dat pro ML, ERP integraci a automatizaci výroby |
+| [cad2llm](https://github.com/outpost2026/cad2llm) | 2026-03 | Deterministický parser SketchUp → JSON (0 % halucinací) |
+| [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | 2026-03 | Metodologie učení s LLM, case studies, transfer learning |
+| [RAG-indexer](https://github.com/outpost2026/RAG-indexer) | 2026-03 | Pre-processing nestrukturovaných dat pro vektorové DB |
+| [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) | 2026-04 | IoT dvoustupňové zabezpečení (PIR+Doppler, ESP32) |
 
-## 🌲 Kde mě najdete
 
-- **Lokalita:** Praha, ČR
-- **Email:** ondra.sousek@gmail.com
+## Trajektorie
 
----
-*„Vím, že nic nevím, ale baví mě zjišťovat, jak věci fungují pod kapotou.“*
+| Rok | Role | Poznámka |
+| - | - | - |
+| 2020 | Cestovatel | Pobyt v zahraničí (FR,ES,UK) |
+| 2021–2024 | Off-grid stavitel | Outpost od základů vlastníma rukama |
+| 2025-2026 | CNC operátor | Zakázková výroba vodní paprsek |
+| 03/2026 | První commit na GitHub | 0 Python, 0 Git, 0 Cloud |
+| 06/2026 | B2B dev s produktem | První schůzka, NDA jednání, unikátní parser |
+
+
+**Od prvního Python commitu po B2B jednání: 72 dní.**
+
+## Kontakt
+
+```
+Ondřej Soušek    
+\[sousek@systeq.cz\](mailto:sousek@systeq.cz)    
+www.systeq.cz    
+Praha, ČR
+```
+
+*Hledám funkční řešení v balastu.*
+
