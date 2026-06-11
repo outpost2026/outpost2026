@@ -7,11 +7,11 @@ CNC · Python · GCP · RE · LLM augmentace
 ```
 
 Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do kódu. 14 let off-grid DIY, CNC výroba, reverzní inženýrství proprietárních formátů — a k tomu posledních pár měsíců intenzivního převodu do digitální domény.
-Moje zkušenosti z off-gridu, dílny, počítačově řízeného obrábění, pobytů v cizině mě naučila *že realita je pro mne nejdůležitějším měřítkem*. 
+Moje zkušenosti z off-gridu, dílny, počítačově řízeného obrábění, pobytů v cizině mě naučila že **realita je pro mne nejdůležitějším měřítkem**. 
 
-Nástroje které tvořím s pomocí AI slouží k pomyslnému hledání jehly v kupce sena, nyní k datové analýze založené na filtraci vaty a všudepřítomného šumu.
+Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly v kupce sena, nyní k datové analýze založené na filtraci vaty a všudepřítomného šumu.
 
-**První open-source parser proprietárního formátu .VCF (Ruida/VCutWorks). Žádná známá konkurence.**
+*První open-source parser proprietárního formátu .VCF (Ruida/VCutWorks). Žádná známá konkurence.* **[Online konverze VCF na cloudu GCP](https://vcf-parser-demo-537446704644.europe-west1.run.app/)**
 
 ## Co umím
 
@@ -30,8 +30,8 @@ Nástroje které tvořím s pomocí AI slouží k pomyslnému hledání jehly v 
 
 | Repo | Vznik | Co dělá |
 | - | - | - |
-| [Vcut-parser](https://github.com/outpost2026/vcut-parser) (private) | 2026-06 | **První open-source parser .VCF** — reverzní inženýrství formátu Ruida/VCutWorks |
-| [CNC\_2\_LLM](https://github.com/outpost2026/CNC_2_LLM) (private) | 2026-06 | Pipeline z CAD dat pro ML, ERP integraci a automatizaci výroby |
+| [🔒Vcut-parser](https://vcf-parser-demo-537446704644.europe-west1.run.app/) (private)| 2026-06 | **Cracknutí a tvorba datové pipeline pro CNC software Vcutwork** — reverzní inženýrství hexadecimální binárky Ruida/VCutWorks |
+| [🔒CNC\_2\_LLM](https://github.com/outpost2026/CNC_2_LLM) (private) | 2026-06 | Pipeline z CAD dat pro ML, ERP integraci a automatizaci výroby |
 | [cad2llm](https://github.com/outpost2026/cad2llm) | 2026-03 | Deterministický parser SketchUp → JSON (0 % halucinací) |
 | [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | 2026-03 | Metodologie učení s LLM, case studies, transfer learning |
 | [RAG-indexer](https://github.com/outpost2026/RAG-indexer) | 2026-03 | Pre-processing nestrukturovaných dat pro vektorové DB |
@@ -43,7 +43,7 @@ Nástroje které tvořím s pomocí AI slouží k pomyslnému hledání jehly v 
 | Rok | Role | Poznámka |
 | - | - | - |
 | 2020 | Cestovatel | Pobyt v zahraničí (FR,ES,UK) |
-| 2021–2024 | Off-grid stavitel | Outpost od základů vlastníma rukama |
+| 2022–2024 | Off-grid stavitel | Outpost od základů vlastníma rukama |
 | 2025-2026 | CNC operátor | Zakázková výroba vodní paprsek |
 | 03/2026 | První commit na GitHub | 0 Python, 0 Git, 0 Cloud |
 | 06/2026 | B2B dev s produktem | První schůzka, NDA jednání, unikátní parser |
