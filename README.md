@@ -7,6 +7,9 @@ CNC · Python · GCP · RE · LLM augmentace
 ```
 
 Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do kódu. 14 let off-grid DIY, CNC výroba, reverzní inženýrství proprietárních formátů — a k tomu posledních pár měsíců intenzivního převodu do digitální domény.
+Moje zkušenosti z off-gridu, dílny, počítačově řízeného obrábění, pobytů v cizině mě naučila *že realita je pro mne nejdůležitějším měřítkem*. 
+
+Nástroje které tvořím s pomocí AI slouží k pomyslnému hledání jehly v kupce sena, nyní k datové analýze založené na filtraci vaty a všudepřítomného šumu.
 
 **První open-source parser proprietárního formátu .VCF (Ruida/VCutWorks). Žádná známá konkurence.**
 
