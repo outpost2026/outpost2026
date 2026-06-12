@@ -17,7 +17,7 @@ Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly 
 
 | Vrstva | Oblast | Důkaz |
 | - | - | - |
-| **[Reverse Engineering](https://github.com/outpost2026/Kazuistiky-LLM-sprint/edit/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_v2.md)** | Binární formáty, IEEE 754, bitová maskování | 74B segmenty .VCF dekódovány bez dokumentace (184 h) |
+| **[Reverse Engineering](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_v2.md)** | Binární formáty, IEEE 754, bitová maskování | 74B segmenty .VCF dekódovány bez dokumentace (184 h) |
 | **Python** | Streamlit, pandas, RPA, ETL | 7 repozitářů, 2 produkční parsery |
 | **Cloud** | GCP (Cloud Run, Scheduler, Storage, IAM, Artifact Registry) | Docker → Cloud Run deploy |
 | **RPA** | GUI automatizace VCutWorks | 33/33 souborů = 100% úspěšnost |
