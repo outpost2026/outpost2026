@@ -30,7 +30,7 @@ Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly 
 
 | Repo | Vznik | Co dělá |
 | - | - | - |
-| [🔒Vcut-parser](https://github.com/outpost2026/Kazuistiky-LLM-sprint/edit/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_v2.md) (private)| 2026-06 | **Cracknutí a tvorba datové pipeline pro CNC software Vcutwork** — reverzní inženýrství hexadecimální binárky Ruida/VCutWorks |
+| [🔒Vcut-parser](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_v2.md) (private)| 2026-06 | **Cracknutí a tvorba datové pipeline pro CNC software Vcutwork** — reverzní inženýrství hexadecimální binárky Ruida/VCutWorks |
 | [🔒CNC\_2\_LLM](https://github.com/outpost2026/CNC_2_LLM) (private) | 2026-06 | Pipeline z CAD dat pro ML, ERP integraci a automatizaci výroby |
 | [cad2llm](https://github.com/outpost2026/cad2llm) | 2026-03 | Deterministický parser SketchUp → JSON (0 % halucinací) |
 | [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | 2026-03 | Metodologie učení s LLM, case studies, transfer learning |
