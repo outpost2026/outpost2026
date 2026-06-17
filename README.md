@@ -1,5 +1,5 @@
 # Outpost2026
-
+### *Fyzická realita je jedinečná absolutní metrika pravdy. Digitální svět je jen její abstrakce* 
 ```
 Off-grid, Praha    
 2500 Wp FV · 16 kWh LiFePO4    
@@ -12,7 +12,6 @@ Moje zkušenosti z off-gridu, dílny, počítačově řízeného obrábění, po
 Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly v kupce sena = k datové analýze založené na filtraci vaty a všudepřítomného šumu. 
 Věřím, že skutečná seniorita se měří úrovní abstrakce problému, který dokážete řešit, ne počtem let strávených u klávesnice.
 
-*"Skutečné porozumění je ekvivalentem komprese: čím menší je vnitřní model reality při zachování predikční schopnosti, tím hlouběji model pochopil kauzální vazby prostředí* 
 ## Co umím
 
 | Vrstva | Oblast | Důkaz |
@@ -62,6 +61,3 @@ sousek@systeq.cz
 www.systeq.cz    
 Praha, ČR
 ```
-
-*Hledám funkční řešení v balastu.*
-
