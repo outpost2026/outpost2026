@@ -60,8 +60,7 @@ Napsal jsem teoretický rámec, který dekonstruuje lidskou kognici na čistou m
 ## Jak vypadá střet s trhem (Případová studie)
 Teorie a repozitáře jsou jedna věc, ale jak to funguje, když s tímto přístupem a arzenálem přijdete z výroby rovnou na reálný IT pohovor? Sepsal jsem detailní analytickou kazuistiku mého úplně prvního pohovoru v životě. Zdokumentoval jsem v ní, co v praxi zafungovalo, na jaká rizika si dát pozor a proč si myslím, že v nastupující éře se těžiště práce přesouvá od pouhého memorování syntaxe k systémovému myšlení a pragmatickému řízení AI.
 
-👉 Přečíst dokument: [Kariérní přechody v éře saturace AI (2026)](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/karierni_prechody_v_ere_saturace_AI_rok_2026_revidovano_v2.md)  *legacy, ghosting*
-
+👉 Přečíst dokument: [Kariérní přechody v éře saturace AI (2026)](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/karierni_prechody_v_ere_saturace_AI_rok_2026_revidovano_v2.md)
 ## Kontakt
 
 ```
