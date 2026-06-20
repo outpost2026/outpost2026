@@ -53,7 +53,7 @@ Stavět efektivní softwarové systémy a pracovat s AI vyžaduje pochopit, jak 
 
 Napsal jsem teoretický rámec, který dekonstruuje lidskou kognici na čistou matematiku a definuje mozek jako **organické GPU**. Dokument vysvětluje, proč je skutečná inteligence schopností ztrátové komprese a jak vzniká intuice skrze změny topologie v neuronových sítích. Je to můj epistemologický kernel.
 
-🧠 Přečíst výzkumný artefakt: [Proč váš mozek není počítač, ale geometrické GPU, ultimátní herní grafika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v1.1.md)
+🧠 Přečíst výzkumný artefakt: [Proč váš mozek není počítač, ale geometrické GPU, ultimátní herní grafika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.0.md)
 
 ---
 
