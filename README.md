@@ -53,7 +53,9 @@ Stavět efektivní softwarové systémy a pracovat s AI vyžaduje pochopit, jak 
 
 Napsal jsem teoretický rámec, který dekonstruuje lidskou kognici na čistou matematiku a definuje mozek jako **organické GPU**. Dokument vysvětluje, proč je skutečná inteligence schopností ztrátové komprese a jak vzniká intuice skrze změny topologie v neuronových sítích. Je to můj epistemologický kernel.
 
-🧠 Přečíst výzkumný artefakt: [Proč váš mozek není počítač, ale geometrické GPU, ultimátní herní grafika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.0.md)
+🧠 Přečíst výzkumnou esej: [Proč váš mozek není počítač, ale geometrické GPU, ultimátní herní grafika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.1.md)
+
+- "Nechal jsem AI, aby na základě mých technických poznámek & materiálů & rešerší vzniklých během vývoje softwaru syntetizovala [Audio úvahu v mp3 o kompresi reality](https://systeq.cz/docs/audio/Jak_komprese_reality_spojuje_mozek_a_CNC.mp3). Je to vyprávění - průvodce - společným aspektem: **vztahem mezi mozkem, geometrií a učícím se strojem**. Vychází z výše uvedené eseje "**Mozek jako geometrické CPU**"
 
 ---
 
