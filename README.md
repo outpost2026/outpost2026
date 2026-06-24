@@ -61,7 +61,7 @@ Napsal jsem teoretický rámec, který dekonstruuje lidskou kognici na čistou m
 ---
 
 ## Metodika a B2B validace
-Pro partnery a auditory: kompletní metodologický rámec pro reverse engineering proprietárních binárních formátů. 6-fázový proces, epistemická kontrola kvality, detekční taxonomie, validační framework s golden master testy. Bez odhalení IP.
+Kompletní metodologický rámec pro reverse engineering proprietárních binárních formátů. 6-fázový proces, QC, detekční taxonomie, validační framework s golden master testy. Bez odhalení IP.
 
 📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)**
 
