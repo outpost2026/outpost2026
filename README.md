@@ -23,6 +23,7 @@ Věřím, že skutečná seniorita se měří úrovní abstrakce problému, kter
 | **Testování** | Golden master regression, determinism, smoke | 11 testů, baseline JSONy v repu |
 | **Off-grid systémy** | FV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
 | **CNC technologie** | Vodní paprsek, oscilační nůž, V-slot | CAM workflow od DXF po hotový díl |
+| **[Metodika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | Epistemický rámec, golden master, B2B validace | 7 kapitol, 23 defektů, 8/8 PASS |
 
 
 ## Repozitáře
@@ -56,6 +57,13 @@ Napsal jsem teoretický rámec, který dekonstruuje lidskou kognici na čistou m
 🧠 Přečíst výzkumnou esej: [Proč váš mozek není počítač, ale geometrické GPU, ultimátní herní grafika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.1.md)
 
 - "Nechal jsem AI, aby na základě mých technických poznámek & materiálů & rešerší vzniklých během vývoje softwaru syntetizovala [Audio úvahu v mp3 o kompresi reality](https://systeq.cz/docs/audio/Jak_komprese_reality_spojuje_mozek_a_CNC.mp3). Je to vyprávění - průvodce - společným aspektem: **vztahem mezi mozkem, geometrií a učícím se strojem**. Vychází z výše uvedené eseje "**Mozek jako geometrické CPU**"
+
+---
+
+## Metodika a B2B validace
+Pro partnery a auditory: kompletní metodologický rámec pro reverse engineering proprietárních binárních formátů. 6-fázový proces, epistemická kontrola kvality, detekční taxonomie, validační framework s golden master testy. Bez odhalení IP.
+
+📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)**
 
 ---
 
