@@ -23,7 +23,7 @@ Věřím, že skutečná seniorita se měří úrovní abstrakce problému, kter
 | **Testování** | Golden master regression, determinism, smoke | 11 testů, baseline JSONy v repu |
 | **Off-grid systémy** | FV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
 | **CNC technologie** | Vodní paprsek, oscilační nůž, V-slot | CAM workflow od DXF po hotový díl |
-| **[Metodika](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | Epistemický rámec, golden master, B2B validace | 7 kapitol, 23 defektů, 8/8 PASS |
+| **[Metodika Reverzní inženýrství](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | Epistemický rámec, golden master, B2B validace | 7 kapitol, 23 defektů, 8/8 PASS |
 
 
 ## Repozitáře
