@@ -22,14 +22,14 @@ Věřím, že skutečná seniorita se měří úrovní abstrakce problému, kter
 
 | Vrstva | Oblast | Důkaz |
 | - | - | - |
-| **[Reverse Engineering](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_v2.md)** | Binární formáty, IEEE 754, bitová maskování | 74B segmenty .VCF dekódovány bez dokumentace (184 h) |
+| **[Reverse Engineering](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_v2.md)** | Binární formáty, IEEE 754, bitová maskování | soubory vcf z vcutworks dekódovány bez dokumentace (200 h) |
 | **Python** | Streamlit, pandas, RPA, ETL | 7 repozitářů, 2 produkční parsery |
 | **Cloud** | GCP (Cloud Run, Scheduler, Storage, IAM, Artifact Registry) | Docker → Cloud Run deploy |
 | **RPA** | GUI automatizace VCutWorks | 33/33 souborů = 100% úspěšnost |
 | **Testování** | Golden master regression, determinism, smoke | 11 testů, baseline JSONy v repu |
 | **Off-grid systémy** | FV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
 | **CNC technologie** | Vodní paprsek, oscilační nůž, V-slot | CAM workflow od DXF po hotový díl |
-| **[Metodika Reverzní inženýrství](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | VCF files RE inteligence, metodika, golden master, 7 kapitol, 23 defektů, 8/8 PASS | VCF parsing tool for VcutWork CAM files
+| **[Metodika Reverzní inženýrství](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | VCF files RE inteligence, metodika, golden master, 7 kapitol, 23 defektů, 8/8 PASS | VCF parsing tool for VcutWorks CAM files
 
 
 ## Repozitáře
