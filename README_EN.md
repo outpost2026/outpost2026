@@ -69,7 +69,7 @@ A complete methodological framework for reverse engineering proprietary binary f
 ## How the Market Collision Looks (Case Study)
 Theory and repositories are one thing, but how does it work when you walk straight from manufacturing into a real IT interview with this approach and arsenal? I wrote a detailed analytical case study of my very first interview ever. I documented what actually worked in practice, what risks to watch out for, and why I believe that in the emerging era, the center of gravity shifts from mere syntax memorization to systems thinking and pragmatic AI orchestration.
 
-👉 Read the document: [Career Transitions in the Era of AI Saturation (2026)](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/karierni_prechody_v_ere_saturace_AI_rok_2026_revidovano_v2.md) [ENGLISH VER](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/career_transitions_in_the_era_of_AI_saturation_2026_en.md)
+👉 Read the document: [Career Transitions in the Era of AI Saturation (2026)](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/career_transitions_in_the_era_of_AI_saturation_2026_en.md)
 
 ## Contact
 
