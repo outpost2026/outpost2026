@@ -23,7 +23,7 @@ I believe that true seniority is measured by the level of abstraction of the pro
 | **Testing** | Golden master regression, determinism, smoke | 11 tests, baseline JSONs in repo |
 | **Off-grid systems** | PV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
 | **CNC technology** | Waterjet, oscillating knife, V-slot | CAM workflow from DXF to finished part |
-| **[Reverse Engineering Methodology](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | VCF files RE intelligence, methodology, golden master, 7 chapters, 23 defects, 8/8 PASS | VCF parsing tool for VCutWorks CAM files
+| **[Reverse Engineering Methodology](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK_EN.md)** | VCF files RE intelligence, methodology, golden master, 7 chapters, 23 defects, 8/8 PASS | VCF parsing tool for VCutWorks CAM files
 
 ## Repositories
 
@@ -62,7 +62,7 @@ I wrote a theoretical framework that deconstructs human cognition into pure math
 ## Methodology & B2B Validation
 A complete methodological framework for reverse engineering proprietary binary formats. 6-phase process, QC, detection taxonomy, validation framework with golden master tests. Without IP disclosure.
 
-📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)**
+📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK_EN.md)**
 
 ---
 
