@@ -1,9 +1,3 @@
-<div align="left">
-  <a href="https://github.com/outpost2026/outpost2026/blob/main/README_EN.md">
-    <img src="https://flagcdn.com/24x18/gb.png" alt="EN" height="18"> English
-  </a>
-</div>
-
 # Outpost2026
 
 **Domain-Driven Automation Engineer & Formalization Specialist**
