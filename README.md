@@ -29,14 +29,14 @@ Věřím, že skutečná seniorita se měří úrovní abstrakce problému, kter
 | **Testování** | Golden master regression, determinism, smoke | 11 testů, baseline JSONy v repu |
 | **Off-grid systémy** | FV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
 | **CNC technologie** | Vodní paprsek, oscilační nůž, V-slot | CAM workflow od DXF po hotový díl |
-| **[Metodika Reverzní inženýrství](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)** | VCF files RE inteligence, metodika, golden master, 7 kapitol, 23 defektů, 8/8 PASS | VCF parsing tool for VcutWorks CAM files
+| **[RE Case Study: Ruida VCF & LightBurn DXF](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_revised_en.md)** | VCF files RE inteligence, metodika, golden master, 7 kapitol, 23 defektů, 8/8 PASS | VCF parsing tool for VcutWork CAM files
 
 
 ## Repozitáře
 
 | Repo | Vznik | Co dělá |
 | - | - | - |
-| 🔒Vcut-parser(**[Online konverze VCF na cloudu GCP](https://vcf-parser-demo-537446704644.europe-west1.run.app/)**| 2026-06 |**Cracknutí a tvorba datové pipeline pro CNC software Vcutwork** — reverzní inženýrství hexadecimální binárky Ruida/VCutWorks |
+| 🔒VCF Ruida Parser(**[Online konverze VCF na cloudu GCP](https://vcf-parser-demo-537446704644.europe-west1.run.app/)**| 2026-06 |**Cracknutí a tvorba datové pipeline pro CNC software Vcutworks** — 1. kompletní reverzní inženýrství souborů vcf Ruida/VCutWorks |
 | [🔒CNC\_2\_LLM](https://github.com/outpost2026/CNC_2_LLM) (private) | 2026-06 | Pipeline z CAD dat pro ML, ERP integraci a automatizaci výroby |
 | [cad2llm](https://github.com/outpost2026/cad2llm) | 2026-03 | Deterministický parser SketchUp → JSON (0 % halucinací) |
 | [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | 2026-03 | Metodologie učení s LLM, case studies, transfer learning |
@@ -66,8 +66,8 @@ Napsal jsem teoretický rámec, který dekonstruuje lidskou kognici na čistou m
 
 ---
 
-## Metodika a B2B validace
-Kompletní metodologický rámec pro reverse engineering proprietárních binárních formátů. 6-fázový proces, QC, detekční taxonomie, validační framework s golden master testy. Bez odhalení IP.
+## Metodika reverse engineering ruida vcf
+Kompletní metodologický rámec pro reverse engineering proprietárních binárních formátů. 6-fázový proces, QC, detekční taxonomie, validační framework s golden master testy.
 
 📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)**
 
