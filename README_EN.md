@@ -1,3 +1,9 @@
+<div align="left">
+  <a href="https://github.com/outpost2026/outpost2026/blob/main/README.md">
+    <img src="https://flagcdn.com/24x18/cz.png" alt="CZ" height="18"> Česky
+  </a>
+</div>
+
 # Outpost2026
 ### *Physical reality is the only absolute metric of truth. The digital world is merely its abstraction*
 ```
@@ -23,13 +29,13 @@ I believe that true seniority is measured by the level of abstraction of the pro
 | **Testing** | Golden master regression, determinism, smoke | 11 tests, baseline JSONs in repo |
 | **Off-grid systems** | PV, LiFePO4 BMS, ESP32/8266 IoT | Outpost-security-perimeter |
 | **CNC technology** | Waterjet, oscillating knife, V-slot | CAM workflow from DXF to finished part |
-| **[Reverse Engineering Methodology](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK_EN.md)** | VCF files RE intelligence, methodology, golden master, 7 chapters, 23 defects, 8/8 PASS | VCF parsing tool for VCutWorks CAM files
+| **[RE Case Study: Ruida VCF & LightBurn DXF](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_revised_en.md)** | VCF files RE intelligence, methodology, golden master, 7 chapters, 23 defects, 8/8 PASS | VCF parsing tool for VcutWork CAM files
 
 ## Repositories
 
 | Repo | Created | What it does |
 | - | - | - |
-| 🔒Vcut-parser(**[Online VCF conversion on GCP Cloud](https://vcf-parser-demo-537446704644.europe-west1.run.app/)** | 2026-06 | **Cracking and building a data pipeline for VcutWorks CNC software** — reverse engineering of Ruida/VCutWorks hexadecimal binary |
+| 🔒VCF Ruida Parser(**[Online VCF conversion on GCP Cloud](https://vcf-parser-demo-537446704644.europe-west1.run.app/)**| 2026-06 |**Cracking and building a data pipeline for VcutWorks CNC software** — 1st complete reverse engineering of Ruida/VCutWorks VCF files |
 | [🔒CNC\_2\_LLM](https://github.com/outpost2026/CNC_2_LLM) (private) | 2026-06 | Pipeline from CAD data for ML, ERP integration, and production automation |
 | [cad2llm](https://github.com/outpost2026/cad2llm) | 2026-03 | Deterministic SketchUp → JSON parser (0 % hallucinations) |
 | [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) | 2026-03 | Learning methodology with LLMs, case studies, transfer learning |
