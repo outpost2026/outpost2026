@@ -34,7 +34,7 @@ I believe that true seniority is measured by the level of abstraction of the pro
 ---
 ### Manifesto: The Donkey, Geometry, and Consolidation
 
-**[AI is taking your creativity. But not the way you think.](https://systeq.cz/docs/osel_geometrie_konsolidace_manifest.pdf)**
+**[AI is taking your creativity. But not the way you think.](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/osel_geometrie_konsolidace_manifest_EN.md)** ([CZ PDF](https://systeq.cz/docs/osel_geometrie_konsolidace_manifest.pdf))
 
 A text summarizing my understanding of the relationship between human cognition, bodily experience, consolidation of thought, and the limits of LLM systems.
 
