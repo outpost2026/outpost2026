@@ -31,7 +31,14 @@ Věřím, že skutečná seniorita se měří úrovní abstrakce problému, kter
 | **CNC technologie** | Vodní paprsek, oscilační nůž, V-slot | CAM workflow od DXF po hotový díl |
 | **[RE Case Study: Ruida VCF & LightBurn DXF](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_revised_en.md)** | VCF files RE inteligence, metodika, golden master, 7 kapitol, 23 defektů, 8/8 PASS | VCF parsing tool for VcutWork CAM files
 
+---
+### Manifest: Osel, geometrie a konsolidace
 
+**[AI vám bere kreativitu. Ale ne tak, jak si myslíte](https://systeq.cz/docs/osel_geometrie_konsolidace_manifest.pdf)**  
+
+Text shrnující mé chápání vztahu mezi lidskou kognicí, tělesnou zkušeností, konsolidací myšlení a limity LLM systémů.
+
+---
 ## Repozitáře
 
 | Repo | Vznik | Co dělá |
