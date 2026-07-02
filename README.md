@@ -6,6 +6,13 @@
 
 # Outpost2026
 ### *Fyzická realita je jedinečná absolutní metrika pravdy. Digitální svět je jen její abstrakce* 
+
+[![Followers](https://img.shields.io/github/followers/outpost2026?label=followers&style=social)](https://github.com/outpost2026?tab=followers)
+[![Stars](https://img.shields.io/github/stars/outpost2026?label=stars)](https://github.com/outpost2026?tab=stars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ondrejsousek)
+[![Website](https://img.shields.io/badge/website-systeq.cz-000000)](https://systeq.cz)
+
+
 ```
 Off-grid, Praha    
 2500 Wp FV · 16 kWh LiFePO4    
