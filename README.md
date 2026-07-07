@@ -23,24 +23,16 @@ Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly 
 
 ## 🔥 Featured Project
 
-### [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer)
+### [Linkedin Job Analyzer - Není třeba ztrácet čas luštěním každého inzerátů](https://github.com/outpost2026/linkedin-mcp-analyzer) 
 
-> **MCP server — automatizovaná analýza uložených vašich LinkedIn nabídek dle jasných deterministických kritérií dle celkového EROI a fitu nabízené pozice vůči vašemu CV a celkovému stacku. Výstupem je vážený report v 6 jasných kategoriích s důrazem na EROI = Tedy reagovat, nereagovat, zvážit atp.**
+> **MCP server — automatizovaná analýza uložených LinkedIn pracovních nabídek dle jasných deterministických kritérií (EROI/FIT/GAP) vůči vašemu CV a celkovému stacku. Výstupem vážený report v 6 jasných kategoriích s důrazem na fakta a jasným call to action => Tedy reagovat, nereagovat, zvážit atp, doučit se.**
 
 > Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (Follow) — tento nástroj vám řekne, které to jsou.
 
 > `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls)
-```
-git clone https://github.com/outpost2026/linkedin-mcp-analyzer.git  
-cd linkedin-mcp-analyzer  
-uv sync  
-.\\linkedin-mcp.bat --login  
-.\\linkedin-mcp.bat --status
-```
-
-📊 [Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALÝZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
+[Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALÝZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
 
 **Pipeline:** LinkedIn saved jobs → Patchright scraper (4-vrstvá extrakce) → EROI scoring (6 dimenzí) → strukturovaný report + git commit do knowledge base.
 
