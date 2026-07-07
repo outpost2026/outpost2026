@@ -1,6 +1,11 @@
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE2ElEQVQ4jZWSeVCVBRTFf9/H93hsIovwQIEEl8YUc9DJJRXGjUBDk8TBLcwcF5bSyCyNGNKkUJtRHDWXaYFcUJJcQtP0kSuGsoQkIC4oiUo8Nh+P9y39gThQOU3nr3tn7px7zzlXADAajb56C1HTV+0JrG1WfQRJ5wOgtllaBFGsNziJd7PXRpeUR8c+sLVxKHadN7YydP36Fp4Bo9Hoe3t6bIjnm6/HSRdWb/ypu53jeLvePsLZA8nsOphPWsYFNLkVG70tAA8tYG+10E3UIytWnIKGIwbE1KKT7mlNprsdxJr1sWvk5JcDHqZn9PSYNEZwnxGOJJ/Mm9CSmYP9hGA842exZtmrLIh8icgVWZRW1KDJrQiSHf4Gb6zoQIQAP39Um24GSbYYsHcL6lgQv2g688/m4vh8H7xS32PukrWI2WFRNKelgJcLlTPeoSo+BR87ifxvF5MQPeqpbEFVn9Y6Wx0AsqhHFvV49/LiWNJrxBzbj9O4kQRsTmL1hkNk55Ygph+8TOinuUwv13E1ZTWKvY6ysXNoys0jLXEK2V/Mx+DUTqipCpqqdPF7wdQhGMO8cU1OxXdVPP4rF7M8ZQ+bdh4FQOoYLK2oYVNmAxUhg0n8cgKmjCOg1zFl0hgG9vWE2tonS2QAggYYSI0cilfGHpqBQSe/QTV4ELVkGwePXUYARgT1RgiKWKMlzA4hfMKLuDvosNyuQWlswtpmRe/shNTDFbGHG62F1ygLjQFgwPGvUFWFmvU7cA4eQc+4eTxuMbN6wyEam8wMDexN8HB/TFcKEIqOntCcL/5G08VC2grLn0rvsEJTZQRRwraHO5YH7So84ubSffQw9L5eSC7dEZ98m2xqxFx5G9OVUu7lHKe46FeE7z2Gar7ouvjambwzFNXatdfULr3cab5JtXJHsyLJqgri/yP+L/LOkABsh/THPWI8DoMHYOdjQHJxBkC1tCE/qsdy6x4Nl4u4v2k3iqaid/dAqXv4TGKbQS8waOJYbAP92jOQ+vTFeOkmBSW38OrpQXJcGADVG3ZiKSim18qlaLKVkklzAAg8kYFDUCBydQ3W+kaUFjOajYjezRk7fz9uPzCRe6aU9en7kOZvz+dK2WEAls0ZSXJcGG2/36By4UoEZ2fuz4lmdkoOpz8M73Jx9R91+Af40bDvB+p+PIP3wtkk7P6F08ZLVFU3gGIGqwmx6GoZkmoh7e1QNiZF8+d3OVybuohu00L5pM9IXvkoi+LSO/+wIyg0iSM/l2CYGYHLsCEURb3F+0ItS96IIMC3e9cM1i2LIDF2MhUr1mHOy+dmYhyjtp9HMTX8a3AAJlMD02I+Y+WymSTHzcItPITSxBSGZe4nd3YUhb0nsvdiIVLMzHEsjRnHtZjlmBsbyQgJY3PqIRRr5/AcMbe2/mOJYpVZ+3km589dZdfGRQzN3kn9uQKqNmzFfssORns4IS2OCuTM3FjMkqRtFT1rTu3OqRJ0DvVCx+taH7vaKub+JRXXPcuVxwKArupGu8dPcDqvgH6j3+Xj+FAiI0ajfbAI2+gwuh04fFKqyzqWX5d3Of257C1nTgUHVwNof7u0FVCv93dURK2vi53r4EeK4oHSMhAbfT/kFncApbmBpLS9dduyzldtTQgpdvHzzlq4/+vqvwALDRyJBJmKDwAAAABJRU5ErkJggg== "CZ")](https://github.com/outpost2026/outpost2026/blob/main/README.md)[ Česky ](https://github.com/outpost2026/outpost2026/blob/main/README.md)
+<div align="left">
+  <a href="https://github.com/outpost2026/outpost2026/blob/main/README_v3.md">
+    <img src="https://flagcdn.com/24x18/cz.png" alt="CZ" height="18"> Česky
+  </a>
+</div>
 
 # Outpost2026
+
 ### *Physical reality is the only absolute metric of truth. The digital world is merely its abstraction*
 
 [![Followers](https://img.shields.io/github/followers/outpost2026?label=followers&style=social)](https://github.com/outpost2026?tab=followers) [![Stars](https://img.shields.io/github/stars/outpost2026?label=stars)](https://github.com/outpost2026?tab=stars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ondrejsousek) [![Website](https://img.shields.io/badge/website-systeq.cz-000000)](https://systeq.cz/)
@@ -16,6 +21,37 @@ My experience from off-grid living, the workshop, computer-controlled machining,
 
 The tools I create with AI assistance serve a single purpose: finding the proverbial needle in a haystack — data analysis based on filtering out noise and the ever-present static.
 I believe that true seniority is measured by the level of abstraction of the problem you can solve, not by the number of years spent at a keyboard.
+
+---
+
+## 🔥 Featured Project
+
+### [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer)
+
+> **MCP server — automated EROI analysis of your LinkedIn saved jobs.**
+>
+> Of 49 analyzed jobs, only 12% were worth pursuing (SLEDOVAT) — this tool tells you which ones.
+>
+> `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
+
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
+[![MCP](https://img.shields.io/badge/MCP-server-purple)](https://modelcontextprotocol.io)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/outpost2026/linkedin-mcp-analyzer/blob/main/LICENSE)
+
+```bash
+git clone https://github.com/outpost2026/linkedin-mcp-analyzer.git
+cd linkedin-mcp-analyzer
+uv sync
+.\linkedin-mcp.bat --login
+.\linkedin-mcp.bat --status
+```
+
+📊 [Live analysis of 49 jobs →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANAL%C3%9DZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
+
+**Pipeline:** LinkedIn saved jobs → Patchright scraper (4-layer extraction) → EROI scoring (6 dimensions) → structured report + git commit to knowledge base.
+
+---
 
 ## What I Do
 
@@ -43,7 +79,7 @@ All core modules solve a single chain = extracting critical information from leg
 | [Vcf-compiler](https://github.com/outpost2026/Vcf-compiler) | VCF Compiler | Binary writer for Ruida VCF |
 | [vcf_color_service](https://github.com/outpost2026/vcf_color_service) | VCF Color Service | ACI mapping (LightBurn ↔ VCutWorks) |
 | mcp-local-server *(local)* | MCP | FastMCP server for CNC tooling |
-| [linkedin-mcp-custom](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring of job offers |
+| [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring of job offers |
 
 ### Documentation, web & archive
 
@@ -63,8 +99,6 @@ All core modules solve a single chain = extracting critical information from leg
 | 06/2026 | B2B negotiations | First NDA, unique VCF parser (monolith) |
 | 07/2026 | Modular engineering ecosystem | OOP refactor · CI/CD · MCP |
 
-
-
 ### Manifesto: The Donkey, Geometry, and Consolidation
 
 **[AI is taking your creativity. But not the way you think.](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/osel_geometrie_konsolidace_manifest_EN.md)** ([CZ PDF](https://systeq.cz/docs/osel_geometrie_konsolidace_manifest.pdf))
@@ -75,13 +109,12 @@ A text summarizing my understanding of the relationship between human cognition,
 
 Building effective systems and working with AI requires understanding how abstraction itself arises. During reverse engineering and parser development, I began exploring how biological cognition overlaps with machine learning architecture — a side branch, not the main focus, but an important context for my architectural decisions.
 
-🧠 Essay: [Why Your Brain Is Not a Computer But a Geometric GPU](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.1.md) 🎧 [Audio version](https://systeq.cz/docs/audio/Jak_komprese_reality_spojuje_mozek_a_CNC.mp3)
+🧠 Essay: [Why Your Brain Is Not a Computer But a Geometric GPU](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.1.md) 🎧 [Audio version](https://systeq.cz/docs/audio/Jak_komprese_reality_spojuje_mozek_a_CNC.mp3)
 
 ## Methodology — Reverse Engineering Ruida VCF
 A 6-phase RE process for proprietary binary formats — QC, detection taxonomy, validation framework with golden master tests.
 
 📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)**
-
 
 ## How the Market Collision Looks (Case Study)
 
