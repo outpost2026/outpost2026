@@ -20,32 +20,6 @@ Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do
 
 Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly v kupce sena = k datové analýze založené na filtraci vaty a všudypřítomného šumu. Věřím, že skutečná seniorita se měří úrovní abstrakce problému, který dokážete řešit, ne počtem let strávených u klávesnice.
 
-
-## 🔥 Featured Project
-
-### [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer)
-
-> **MCP server — automatizovaná EROI analýza uložených LinkedIn nabídek.**
-
-> Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (SLEDOVAT) — tento nástroj vám řekne, které to jsou.
-
-> `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
-
-[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/) [![MCP](https://img.shields.io/badge/MCP-server-purple)](https://modelcontextprotocol.io/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/outpost2026/linkedin-mcp-analyzer/blob/main/LICENSE)
-
-```
-git clone https://github.com/outpost2026/linkedin-mcp-analyzer.git  
-cd linkedin-mcp-analyzer  
-uv sync  
-.\\linkedin-mcp.bat --login  
-.\\linkedin-mcp.bat --status
-```
-
-📊 [Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALÝZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
-
-**Pipeline:** LinkedIn saved jobs → Patchright scraper (4-vrstvá extrakce) → EROI scoring (6 dimenzí) → strukturovaný report + git commit do knowledge base.
-
-
 ## Co umím
 
 | Vrstva | Oblast | Důkaz |
@@ -75,6 +49,24 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | mcp-local-server *(lokální)* | MCP | FastMCP server pro CNC tooling |
 | [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring pracovních nabídek |
 
+---
+
+### 🔥 Featured Project [Linkedin Jobs Analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer)
+
+> **MCP server — automatizovaná EROI analýza uložených LinkedIn nabídek.**
+
+> Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (SLEDOVAT) — tento nástroj vám řekne, které to jsou.
+
+> `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
+
+[![MCP](https://img.shields.io/badge/MCP-server-purple)](https://modelcontextprotocol.io/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls)
+
+
+[Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALÝZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
+
+**Pipeline:** LinkedIn saved jobs → Patchright scraper (4-vrstvá extrakce) → EROI scoring (6 dimenzí) → strukturovaný report + git commit do knowledge base.
+
+---
 
 ### Dokumentace, web & archiv
 
