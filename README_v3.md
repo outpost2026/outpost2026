@@ -1,8 +1,4 @@
-<div align="left">
-  <a href="https://github.com/outpost2026/outpost2026/blob/main/README_EN_v3.md">
-    <img src="https://flagcdn.com/24x18/gb.png" alt="EN" height="18"> English
-  </a>
-</div>
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASCAYAAABB7B6eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE2ElEQVQ4jZWSeVCVBRTFf9/H93hsIovwQIEEl8YUc9DJJRXGjUBDk8TBLcwcF5bSyCyNGNKkUJtRHDWXaYFcUJJcQtP0kSuGsoQkIC4oiUo8Nh+P9y39gThQOU3nr3tn7px7zzlXADAajb56C1HTV+0JrG1WfQRJ5wOgtllaBFGsNziJd7PXRpeUR8c+sLVxKHadN7YydP36Fp4Bo9Hoe3t6bIjnm6/HSRdWb/ypu53jeLvePsLZA8nsOphPWsYFNLkVG70tAA8tYG+10E3UIytWnIKGIwbE1KKT7mlNprsdxJr1sWvk5JcDHqZn9PSYNEZwnxGOJJ/Mm9CSmYP9hGA842exZtmrLIh8icgVWZRW1KDJrQiSHf4Gb6zoQIQAP39Um24GSbYYsHcL6lgQv2g688/m4vh8H7xS32PukrWI2WFRNKelgJcLlTPeoSo+BR87ifxvF5MQPeqpbEFVn9Y6Wx0AsqhHFvV49/LiWNJrxBzbj9O4kQRsTmL1hkNk55Ygph+8TOinuUwv13E1ZTWKvY6ysXNoys0jLXEK2V/Mx+DUTqipCpqqdPF7wdQhGMO8cU1OxXdVPP4rF7M8ZQ+bdh4FQOoYLK2oYVNmAxUhg0n8cgKmjCOg1zFl0hgG9vWE2tonS2QAggYYSI0cilfGHpqBQSe/QTV4ELVkGwePXUYARgT1RgiKWKMlzA4hfMKLuDvosNyuQWlswtpmRe/shNTDFbGHG62F1ygLjQFgwPGvUFWFmvU7cA4eQc+4eTxuMbN6wyEam8wMDexN8HB/TFcKEIqOntCcL/5G08VC2grLn0rvsEJTZQRRwraHO5YH7So84ubSffQw9L5eSC7dEZ98m2xqxFx5G9OVUu7lHKe46FeE7z2Gar7ouvjambwzFNXatdfULr3cab5JtXJHsyLJqgri/yP+L/LOkABsh/THPWI8DoMHYOdjQHJxBkC1tCE/qsdy6x4Nl4u4v2k3iqaid/dAqXv4TGKbQS8waOJYbAP92jOQ+vTFeOkmBSW38OrpQXJcGADVG3ZiKSim18qlaLKVkklzAAg8kYFDUCBydQ3W+kaUFjOajYjezRk7fz9uPzCRe6aU9en7kOZvz+dK2WEAls0ZSXJcGG2/36By4UoEZ2fuz4lmdkoOpz8M73Jx9R91+Af40bDvB+p+PIP3wtkk7P6F08ZLVFU3gGIGqwmx6GoZkmoh7e1QNiZF8+d3OVybuohu00L5pM9IXvkoi+LSO/+wIyg0iSM/l2CYGYHLsCEURb3F+0ItS96IIMC3e9cM1i2LIDF2MhUr1mHOy+dmYhyjtp9HMTX8a3AAJlMD02I+Y+WymSTHzcItPITSxBSGZe4nd3YUhb0nsvdiIVLMzHEsjRnHtZjlmBsbyQgJY3PqIRRr5/AcMbe2/mOJYpVZ+3km589dZdfGRQzN3kn9uQKqNmzFfssORns4IS2OCuTM3FjMkqRtFT1rTu3OqRJ0DvVCx+taH7vaKub+JRXXPcuVxwKArupGu8dPcDqvgH6j3+Xj+FAiI0ajfbAI2+gwuh04fFKqyzqWX5d3Of257C1nTgUHVwNof7u0FVCv93dURK2vi53r4EeK4oHSMhAbfT/kFncApbmBpLS9dduyzldtTQgpdvHzzlq4/+vqvwALDRyJBJmKDwAAAABJRU5ErkJggg== "EN")](https://github.com/outpost2026/outpost2026/blob/main/README_EN_v3.md)[ English ](https://github.com/outpost2026/outpost2026/blob/main/README_EN_v3.md)
 
 # Outpost2026
 
@@ -11,8 +7,8 @@
 [![Followers](https://img.shields.io/github/followers/outpost2026?label=followers&style=social)](https://github.com/outpost2026?tab=followers) [![Stars](https://img.shields.io/github/stars/outpost2026?label=stars)](https://github.com/outpost2026?tab=stars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ondrejsousek) [![Website](https://img.shields.io/badge/website-systeq.cz-000000)](https://systeq.cz/)
 
 ```
-Off-grid, Praha  
-2500 Wp FV · 16 kWh LiFePO4  
+Off-grid, Praha    
+2500 Wp FV · 16 kWh LiFePO4    
 CNC · RE · Python · Modular · CI/CD · MCP
 ```
 
@@ -20,36 +16,31 @@ Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do
 
 Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly v kupce sena = k datové analýze založené na filtraci vaty a všudypřítomného šumu. Věřím, že skutečná seniorita se měří úrovní abstrakce problému, který dokážete řešit, ne počtem let strávených u klávesnice.
 
----
 
 ## 🔥 Featured Project
 
 ### [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer)
 
 > **MCP server — automatizovaná EROI analýza uložených LinkedIn nabídek.**
->
+
 > Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (SLEDOVAT) — tento nástroj vám řekne, které to jsou.
->
+
 > `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
 
-[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
-[![MCP](https://img.shields.io/badge/MCP-server-purple)](https://modelcontextprotocol.io)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/outpost2026/linkedin-mcp-analyzer/blob/main/LICENSE)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/) [![MCP](https://img.shields.io/badge/MCP-server-purple)](https://modelcontextprotocol.io/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/outpost2026/linkedin-mcp-analyzer/blob/main/LICENSE)
 
-```bash
-git clone https://github.com/outpost2026/linkedin-mcp-analyzer.git
-cd linkedin-mcp-analyzer
-uv sync
-.\linkedin-mcp.bat --login
-.\linkedin-mcp.bat --status
+```
+git clone https://github.com/outpost2026/linkedin-mcp-analyzer.git  
+cd linkedin-mcp-analyzer  
+uv sync  
+.\\linkedin-mcp.bat --login  
+.\\linkedin-mcp.bat --status
 ```
 
-📊 [Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANAL%C3%9DZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
+📊 [Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALÝZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
 
 **Pipeline:** LinkedIn saved jobs → Patchright scraper (4-vrstvá extrakce) → EROI scoring (6 dimenzí) → strukturovaný report + git commit do knowledge base.
 
----
 
 ## Co umím
 
@@ -63,6 +54,7 @@ uv sync
 | **CI/CD & DevSecOps** | Actions, CodeQL, Dependabot | Cross-repo orchestrace |
 | **MCP & agentic** | FastMCP, tool registry | Interní server + analyzer |
 | **Cloud (GCP)** | Cloud Run, Storage, IAM | Live demo |
+
 
 ## Repozitáře
 
@@ -79,12 +71,14 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | mcp-local-server *(lokální)* | MCP | FastMCP server pro CNC tooling |
 | [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring pracovních nabídek |
 
+
 ### Dokumentace, web & archiv
 
 | Typ | Repozitáře |
 | - | - |
 | aktivní | [B2B-Knowledge-Base](https://github.com/outpost2026/B2B-Knowledge-Base) · [Systeq.cz\_dev](https://github.com/outpost2026/Systeq.cz_dev) · [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) |
 | POC / archiv | [cad2llm](https://github.com/outpost2026/cad2llm) · [RAG-indexer](https://github.com/outpost2026/RAG-indexer) · [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) · [vcut-parser](https://github.com/outpost2026/vcut-parser) |
+
 
 ## Trajektorie
 
@@ -96,6 +90,7 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | 03/2026 | První commit na GitHub | 0 Python, 0 Git, 0 Cloud |
 | 06/2026 | B2B jednání | První NDA, unikátní VCF parser (monolit) |
 | 07/2026 | Modular engineering ecosystem | OOP refaktor · CI/CD · MCP |
+
 
 ### Manifest: Osel, geometrie a konsolidace
 
@@ -123,3 +118,4 @@ Můj první IT pohovor — co fungovalo a proč se těžiště práce přesouvá
 ## Kontakt
 
 Ondřej Soušek [LinkedIn](https://linkedin.com/in/ondrejsousek) | [systeq.cz](https://systeq.cz/) | [sousek@systeq.cz](mailto:sousek@systeq.cz)
+
