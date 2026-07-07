@@ -25,14 +25,13 @@ Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly 
 
 ### [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer)
 
-> **MCP server — automatizovaná EROI analýza uložených LinkedIn nabídek.**
+> **MCP server — automatizovaná analýza uložených vašich LinkedIn nabídek dle jasných deterministických kritérií dle celkového EROI a fitu nabízené pozice vůči vašemu CV a celkovému stacku. Výstupem je vážený report v 6 jasných kategoriích s důrazem na EROI = Tedy reagovat, nereagovat, zvážit atp.**
 
-> Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (SLEDOVAT) — tento nástroj vám řekne, které to jsou.
+> Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (Follow) — tento nástroj vám řekne, které to jsou.
 
 > `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
 
-[![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/) [![MCP](https://img.shields.io/badge/MCP-server-purple)](https://modelcontextprotocol.io/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/outpost2026/linkedin-mcp-analyzer/blob/main/LICENSE)
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls)
 ```
 git clone https://github.com/outpost2026/linkedin-mcp-analyzer.git  
 cd linkedin-mcp-analyzer  
