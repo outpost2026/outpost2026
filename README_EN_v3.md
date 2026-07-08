@@ -88,6 +88,12 @@ All core modules solve a single chain = extracting critical information from leg
 | active | [B2B-Knowledge-Base](https://github.com/outpost2026/B2B-Knowledge-Base) · [Systeq.cz_dev](https://github.com/outpost2026/Systeq.cz_dev) · [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) |
 | POC / archive | [cad2llm](https://github.com/outpost2026/cad2llm) · [RAG-indexer](https://github.com/outpost2026/RAG-indexer) · [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) · [vcut-parser](https://github.com/outpost2026/vcut-parser) |
 
+### Projects & Consulting
+
+| Repo | Domain | What it does |
+| - | - | - |
+| [van-peugeot-offgrid](https://github.com/outpost2026/van-peugeot-offgrid) | Off-grid 12V/230V | Victron island system for Peugeot Boxer — design, documentation, wiring diagram, IoT research |
+
 ## Trajectory
 
 | Year | Role | Note |

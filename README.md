@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://github.com/outpost2026/outpost2026/blob/main/README_EN_v3.md">
+  <a href="https://github.com/outpost2026/outpost2026/blob/main/README_EN.md">
     <img src="https://flagcdn.com/24x18/gb.png" alt="EN" height="18"> English
   </a>
 </div>
@@ -75,6 +75,13 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | POC / archiv | [cad2llm](https://github.com/outpost2026/cad2llm) · [RAG-indexer](https://github.com/outpost2026/RAG-indexer) · [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) · [vcut-parser](https://github.com/outpost2026/vcut-parser) |
 
 
+### Projekty & Konzultace
+
+| Repo | Oblast | Co dělá |
+| - | - | - |
+| [van-peugeot-offgrid](https://github.com/outpost2026/van-peugeot-offgrid) | Off-grid 12V/230V | Victron ostrovní systém pro Peugeot Boxer — návrh, dokumentace, schéma, IoT rešerše |
+
+
 ## Trajektorie
 
 | Rok | Role | Poznámka |
@@ -85,6 +92,7 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | 03/2026 | První commit na GitHub | 0 Python, 0 Git, 0 Cloud |
 | 06/2026 | B2B jednání | První NDA, unikátní VCF parser (monolit) |
 | 07/2026 | Modular engineering ecosystem | OOP refaktor · CI/CD · MCP |
+
 
 
 ### Manifest: Osel, geometrie a konsolidace
@@ -104,6 +112,7 @@ Stavět efektivní systémy a pracovat s AI vyžaduje pochopit, jak vzniká samo
 
 📄 **[Methodology & Validation Framework](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/METHODOLOGY_VALIDATION_FRAMEWORK.md)**
 
+
 ## Jak vypadá střet s trhem (Případová studie)
 
 Můj první IT pohovor — co fungovalo a proč se těžiště práce přesouvá od memorování syntaxe k systémovému myšlení.
@@ -113,4 +122,3 @@ Můj první IT pohovor — co fungovalo a proč se těžiště práce přesouvá
 ## Kontakt
 
 Ondřej Soušek [LinkedIn](https://linkedin.com/in/ondrejsousek) | [systeq.cz](https://systeq.cz/) | [sousek@systeq.cz](mailto:sousek@systeq.cz)
-
