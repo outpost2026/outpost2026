@@ -65,6 +65,7 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | [vcf\_color\_service](https://github.com/outpost2026/vcf_color_service) | VCF Color Service | ACI mapování (LightBurn ↔ VCutWorks) |
 | mcp-local-server *(lokální)* | MCP | FastMCP server pro CNC tooling |
 | [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring pracovních nabídek |
+| [lichess-mcp-analyzer](https://github.com/outpost2026/lichess-mcp-analyzer) | Chess MCP | Pattern detection jako kompresní model (Mikolov) |
 
 
 ### Dokumentace, web & archiv

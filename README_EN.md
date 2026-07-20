@@ -80,6 +80,7 @@ All core modules solve a single chain = extracting critical information from leg
 | [vcf_color_service](https://github.com/outpost2026/vcf_color_service) | VCF Color Service | ACI mapping (LightBurn ↔ VCutWorks) |
 | mcp-local-server *(local)* | MCP | FastMCP server for CNC tooling |
 | [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring of job offers |
+| [lichess-mcp-analyzer](https://github.com/outpost2026/lichess-mcp-analyzer) | Chess MCP | Pattern detection as compression model (Mikolov) |
 
 ### Documentation, web & archive
 
