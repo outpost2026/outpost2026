@@ -47,7 +47,7 @@ uv sync
 .\linkedin-mcp.bat --status
 ```
 
-📊 [Live analysis of 49 jobs →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANAL%C3%9DZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
+📊 [Live analysis of 49 jobs →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALYZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
 
 **Pipeline:** LinkedIn saved jobs → Patchright scraper (4-layer extraction) → EROI scoring (6 dimensions) → structured report + git commit to knowledge base.
 
