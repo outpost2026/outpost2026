@@ -8,17 +8,34 @@
 
 ### *Fyzická realita je jedinečná absolutní metrika pravdy. Digitální svět je jen její abstrakce*
 
-[![Followers](https://img.shields.io/github/followers/outpost2026?label=followers&style=social)](https://github.com/outpost2026?tab=followers) [![Stars](https://img.shields.io/github/stars/outpost2026?label=stars)](https://github.com/outpost2026?tab=stars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ondrejsousek) [![Website](https://img.shields.io/badge/website-systeq.cz-000000)](https://systeq.cz/)
+[![Followers](https://img.shields.io/github/followers/outpost2026?label=followers&style=social)](https://github.com/outpost2026?tab=followers) [![Stars](https://img.shields.io/github/stars/outpost2026?label=stars)](https://github.com/outpost2026?tab=stars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ondrejsousek) [![Website](https://img.shields.io/badge/website-systeq.cz-000000)](https://systeq.cz/)
 
 ```
-Off-grid, Praha  
-2500 Wp FV · 16 kWh LiFePO4  
+Off-grid, Praha    
+2500 Wp FV · 16 kWh LiFePO4    
 CNC · RE · Python · Modular · CI/CD · MCP
 ```
 
-Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do kódu. 14 let off-grid DIY, CNC výroba, reverzní inženýrství proprietárních formátů — a k tomu posledních pár měsíců intenzivního převodu do digitální domény. Moje zkušenosti z off-gridu, dílny, počítačově řízeného obrábění, pobytů v cizině mě naučila že **realita je pro mne nejdůležitějším měřítkem**.
+Stavím věci, které prošly fyzickou realitou dřív, než jsem je přepsal do kódu. 14 let off-grid DIY, CNC výroba, reverzní inženýrství proprietárních formátů — a k tomu posledních pár měsíců intenzivního převodu do digitální domény. Moje zkušenosti z off-gridu, dílny, počítačově řízeného obrábění, pobytů v cizině mě naučila že **realita je pro mne nejdůležitějším měřítkem**.
 
-Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly v kupce sena = k datové analýze založené na filtraci vaty a všudepřítomného šumu. Věřím, že skutečná seniorita se měří úrovní abstrakce problému, který dokážete řešit, ne počtem let strávených u klávesnice.
+Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly v kupce sena = k datové analýze založené na filtraci vaty a všudypřítomného šumu. Věřím, že skutečná seniorita se měří úrovní abstrakce problému, který dokážete řešit, ne počtem let strávených u klávesnice.
+
+
+## 🔥 Featured Project
+
+### [Linkedin Job Analyzer - Není třeba ztrácet čas luštěním každého inzerátů](https://github.com/outpost2026/linkedin-mcp-analyzer) 
+
+> **MCP server — automatizovaná analýza uložených LinkedIn pracovních nabídek dle jasných deterministických kritérií (EROI/FIT/GAP) vůči vašemu CV a celkovému stacku. Výstupem vážený report v 6 jasných kategoriích s důrazem na fakta a jasným call to action => Tedy reagovat, nereagovat, zvážit atp, doučit se.**
+
+> Ze 49 analyzovaných nabídek bylo pouze 12 % relevantních (Follow) — tento nástroj vám řekne, které to jsou.
+
+> `Python` `MCP` `Playwright` `LinkedIn API` `EROI scoring`
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/outpost2026/linkedin-mcp-analyzer/pulls)
+[Živá analýza 49 nabídek →](https://github.com/outpost2026/B2B-Knowledge-Base/blob/main/02_ANALYZY/00_linkedin/synteticky_report_analyza.md) · [EROI scoring model →](https://github.com/outpost2026/linkedin-mcp-analyzer#-eroi-scoring-model)
+
+**Pipeline:** LinkedIn saved jobs → Patchright scraper (4-vrstvá extrakce) → EROI scoring (6 dimenzí) → strukturovaný report + git commit do knowledge base.
+
 
 ## Co umím
 
@@ -36,7 +53,7 @@ Nástroje, které tvořím s pomocí AI, slouží k pomyslnému hledání jehly 
 
 ## Repozitáře
 
-Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů důležité informace, nyní řeším zejména jak dostat geometrii z CAD do CNC stroje přes proprietární binární formáty — deterministicky, testovatelně, s MCP nástroji. 
+Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů důležité informace, nyní řeším zejména jak dostat geometrii z CAD do CNC stroje přes proprietární binární formáty — deterministicky, testovatelně, s MCP nástroji.
 
 ### Core Engineering
 
@@ -47,7 +64,8 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | [Vcf-compiler](https://github.com/outpost2026/Vcf-compiler) | VCF Compiler | Binární writer Ruida VCF |
 | [vcf\_color\_service](https://github.com/outpost2026/vcf_color_service) | VCF Color Service | ACI mapování (LightBurn ↔ VCutWorks) |
 | mcp-local-server *(lokální)* | MCP | FastMCP server pro CNC tooling |
-| [linkedin-mcp-custom](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring pracovních nabídek |
+| [linkedin-mcp-analyzer](https://github.com/outpost2026/linkedin-mcp-analyzer) | LinkedIn MCP | EROI scoring pracovních nabídek |
+| [lichess-mcp-analyzer](https://github.com/outpost2026/lichess-mcp-analyzer) | Chess MCP | Pattern detection jako kompresní model (Mikolov) |
 
 
 ### Dokumentace, web & archiv
@@ -56,6 +74,13 @@ Všechny hlavní moduly řeší jeden řetězec = jak dostat z legacy nástrojů
 | - | - |
 | aktivní | [B2B-Knowledge-Base](https://github.com/outpost2026/B2B-Knowledge-Base) · [Systeq.cz\_dev](https://github.com/outpost2026/Systeq.cz_dev) · [Kazuistiky-LLM-sprint](https://github.com/outpost2026/Kazuistiky-LLM-sprint) |
 | POC / archiv | [cad2llm](https://github.com/outpost2026/cad2llm) · [RAG-indexer](https://github.com/outpost2026/RAG-indexer) · [Outpost-security-perimeter](https://github.com/outpost2026/Outpost-security-perimeter) · [vcut-parser](https://github.com/outpost2026/vcut-parser) |
+
+
+### Projekty & Konzultace
+
+| Repo | Oblast | Co dělá |
+| - | - | - |
+| [van-peugeot-offgrid](https://github.com/outpost2026/van-peugeot-offgrid) | Off-grid 12V/230V | Victron ostrovní systém pro Peugeot Boxer — návrh, dokumentace, schéma, IoT rešerše |
 
 
 ## Trajektorie
@@ -80,7 +105,7 @@ Text shrnující mé chápání vztahu mezi lidskou kognicí, tělesnou zkušeno
 
 Stavět efektivní systémy a pracovat s AI vyžaduje pochopit, jak vzniká samotná abstrakce. Během reverzního inženýrství a vývoje parserů jsem se začal zabývat tím, jak se biologická kognice překrývá s architekturou strojového učení — vedlejší větev, ne hlavní proud, ale důležitý kontext pro mé architektonické rozhodování.
 
-🧠 Esej: [Proč váš mozek není počítač, ale geometrické GPU](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.1.md) 🎧 [Audio varianta](https://systeq.cz/docs/audio/Jak_komprese_reality_spojuje_mozek_a_CNC.mp3)
+🧠 Esej: [Proč váš mozek není počítač, ale geometrické GPU](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/brain_geometric_processor_summary_v2.1.md) 🎧 [Audio varianta](https://systeq.cz/docs/audio/Jak_komprese_reality_spojuje_mozek_a_CNC.mp3)
 
 ## Metodika reverse engineering ruida vcf
 
@@ -97,5 +122,4 @@ Můj první IT pohovor — co fungovalo a proč se těžiště práce přesouvá
 
 ## Kontakt
 
-Ondřej Soušek [LinkedIn](https://linkedin.com/in/ondrejsousek) | [systeq.cz](https://systeq.cz/) | [sousek@systeq.cz](mailto:sousek@systeq.cz)
-
+Ondřej Soušek [LinkedIn](https://linkedin.com/in/ondrejsousek) | [systeq.cz](https://systeq.cz/) | [sousek@systeq.cz](mailto:sousek@systeq.cz)
