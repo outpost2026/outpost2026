@@ -48,7 +48,7 @@ Z 49 analyzovaných nabídek bylo pouze 12 % relevantních pro další sledován
 
 | Vrstva | Oblast | Důkaz |
 | - | - | - |
-| **[Reverse Engineering**](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_revised_en.md) | Binární formáty, IEEE 754, serializace | Ruida VCF: výzkum, parser, compiler a validační artefakty |
+| **[Reverse Engineering](https://github.com/outpost2026/Kazuistiky-LLM-sprint/blob/main/RE_CASE_STUDY_VCUTWORKS_LIGHTBURN_revised_en.md)** | Binární formáty, IEEE 754, serializace | Ruida VCF: výzkum, parser, compiler a validační artefakty |
 | **Industrial systems** | CNC/CAM, DXF, G-kód, real-world constraints | Vodní paprsek, CAD/CAM workflow, VCF/DXF tooling |
 | **Python & modular engineering** | OOP, CLI, konfigurace, pytest | Modulární nástroje a testovatelné pipeline |
 | **Data / ETL** | Ingestion, normalizace, matching, deduplikace, reporting | MCP-Jobs, RAG a manufacturing-data workflow |
