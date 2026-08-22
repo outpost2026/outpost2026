@@ -26,11 +26,11 @@ Fyzické systémy, CNC/CAM a reverse engineering jsou moje původní engineering
 
 ### [MCP-Jobs](https://github.com/outpost2026/MCP-Jobs) — multi-provider market intelligence
 
-> **Pythonový MCP server pro práci s českými pracovními portály: provider ingestion, boolean matching, URL/fuzzy deduplikace, PostgreSQL persistence, CLI a MCP interface.**
+> **Pythonový MCP server pro práci s českými pracovními portály: provider ingestion, boolean matching, URL/fuzzy deduplikace, PostgreSQL persistence, CLI, MCP interface a Streamlit dashboard.**
 
-> `Python` `ETL` `SQL/PostgreSQL` `FastMCP` `CLI` `pytest` `CI`
+> `Python` `ETL` `SQL/PostgreSQL` `FastMCP` `Streamlit` `CLI` `pytest` `CI`
 
-Šest providerů, strukturované logování, asynchronní joby a 189 veřejných testovacích funkcí. Tento projekt propojuje data ingestion, normalizaci, persistenci a AI-facing rozhraní do jednoho reprodukovatelného workflow.
+Šest providerů, strukturované logování, asynchronní joby, 198 testů (včetně contract tests) a modulární Streamlit frontend. Tento projekt propojuje data ingestion, normalizaci, persistenci, AI-facing rozhraní a analytický dashboard do jednoho reprodukovatelného workflow.
 
 [Repo →](https://github.com/outpost2026/MCP-Jobs)
 
